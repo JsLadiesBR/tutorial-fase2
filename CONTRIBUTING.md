@@ -87,4 +87,4 @@ Disponível em [version](http://contributor-covenant.org/version/1/4)
 [Página inicial]: http://contributor-covenant.org
 [Versão]: http://contributor-covenant.org/version/1/4/
 
-######[Texto Original](https://gist.github.com/hi-hi-ray/a868081e2a63ee47fafa015353d05ae3) 
+###### [Texto Original](https://gist.github.com/hi-hi-ray/a868081e2a63ee47fafa015353d05ae3) 
