@@ -1,6 +1,6 @@
 # Tutorial JS Ladies : Nível Iniciante.
 
-Este é o código-fonte para o nosso Tutorial, hospedado no [GitBook](#)
+Este é o código-fonte para o nosso Tutorial, que está hospedado no [GitBook](#).
 
 ## Para Contribuir
 
