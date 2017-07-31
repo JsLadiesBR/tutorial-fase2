@@ -8,7 +8,7 @@ Leia [CONTRIBUTING.md](https://github.com/JsLadiesBR/tutorial-inicante/blob/mast
 
 ## Versionamento
 
-Usamos [SemVer](http://semver.org/) para versões. Para as versões disponíveis, veja [tags neste repositório](https://github.com/JsLadiesBR/tutorial-inicante/tags).
+Usamos [SemVer](http://semver.org/) para versões. Para as versões disponíveis, veja as [tags neste repositório](https://github.com/JsLadiesBR/tutorial-inicante/tags).
 
 ## License
 
