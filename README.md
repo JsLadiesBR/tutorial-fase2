@@ -12,7 +12,7 @@ Usamos [SemVer](http://semver.org/) para versões. Para as versões disponíveis
 
 ## License
 
-Este projeto está licenciado sob a licença [Creative Commons Attribution-ShareAlike 4.0]https://creativecommons.org/licenses/by-sa/4.0/). Todos podem adicionar, editar e corrigir o tutorial.
+Este projeto está licenciado sob a licença [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Todos podem adicionar, editar e corrigir o tutorial.
 
 ## Construido com
 
