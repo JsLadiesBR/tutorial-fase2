@@ -11,6 +11,7 @@ Por favor, note que temos um código de conduta, siga-o em todas as suas intera�
    O pedido de envio representaria. O esquema de versão que usamos é [SemVer](http://semver.org/).
 4. Você pode combinar o pedido de mudança, uma vez que você tenha o sinal de dois outros desenvolvedores, ou se você
    Não tem permissão para fazer isso, você pode solicitar que o segundo crítico seja fundado para você.
+5. Adicione seu nome a lista de contribuidores, no arquivo [CONTRIBUTORS.md](https://github.com/JsLadiesBR/tutorial-inicante/blob/master/CONTRIBUTORS.md)
 
 ## Código de conduta
 
