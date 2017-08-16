@@ -1,4 +1,4 @@
-# Change Log
+# Changelog
 
 As mudanças feitas em cada release desse projeto serão comentadas em alto nível nesse documento.
 
