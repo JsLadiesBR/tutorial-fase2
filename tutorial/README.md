@@ -19,11 +19,11 @@
 
  Front-end é aquilo que você vê e com o que você interage, ou seja, é a interface gráfica, um exemplo perfeito é uma página web, e assim como um bolo ela possui inúmeras camadas. 
  
- <img src="./assets/layers of a page.png" width="400" height="350"/>
+ <img src="./assets/layers of a page.png" width="450" height="450"/>
 
-- HTML é a linguagem de marcação que nós usamos para estruturar o nosso conteúdo web. (Massa do Bolo)
-- CSS é uma linguagem de regras de estilo que nós usamos para aplicar estilo ao nosso conteúdo HTML. (Cobertura do Bolo)
-- JavaScript é que permite você criar conteúdo que se atualiza dinamicamente, controlar múltimídias, imagens animadas, e tudo o mais que há de intessante. (Sabor do Bolo)
+- **HTML** é a linguagem de marcação que nós usamos para estruturar o nosso conteúdo web. (Massa do Bolo)
+- **CSS** é uma linguagem de regras de estilo que nós usamos para aplicar estilo ao nosso conteúdo HTML. (Cobertura do Bolo)
+- **JavaScript** é que permite você criar conteúdo que se atualiza dinamicamente, controlar múltimídias, imagens animadas, e tudo o mais que há de intessante. (Sabor do Bolo)
 
 
 
