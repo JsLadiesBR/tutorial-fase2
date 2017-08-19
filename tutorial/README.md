@@ -26,4 +26,4 @@
 - **JavaScript** é que permite você criar conteúdo que se atualiza dinamicamente, controlar múltimídias, imagens animadas, e tudo o mais que há de intessante. (Sabor do Bolo)
 
 
-
+Agora que sabemos um pouco sobre o que é o nosso tutorial, podemos ir para a próxima etapa: [Instalação e Preparação do Ambiente](INSTALL.md)
