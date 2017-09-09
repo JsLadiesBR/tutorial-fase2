@@ -1,6 +1,7 @@
 # Sumário
 
 * [Introdução](README.md)
+* [Introdução ao JavaScript] (JAVASCRIPT.md)
 * [Instalação e Preparação do Ambiente](INSTALL.md)
 * [Hello World](HELLOWORLD.md)
 * [Criando Mapa](CREATEMAP.md)
