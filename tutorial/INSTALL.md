@@ -2,9 +2,9 @@
 
 ## Instalação
 
-:construction:
-
 Para realizar nosso projeto em JavaScript vamos precisar de algumas ferramentas que facilitarão nosso trabalho. A primeira delas é o <b>Node.js</b>.
+
+## Para que serve o Node.js?
 
 Já vimos que JavaScript é uma linguagem pensada para atender ao cliente, ou seja, ao usuário de uma página web. Com o JS, as páginas ganham interatividade e dinamismo com scripts (instruções) interpretados pelo próprio navegador, no computador de quem está utilizando o site. Lembra que explicamos o que significa front-end? Podemos chamar também de client-side, isto é, o lado do cliente.
 
@@ -14,13 +14,13 @@ Por exemplo: se quisermos que o site faça um cálculo matemático e criarmos o 
 
 O Node.js é uma plataforma de desenvolvimento de aplicações server-side que utiliza linguagem JavaScript.
 
-<h6>"Como é? Achei que JavaScript era uma linguagem front-end!"</h6>
+## Como é? Achei que JavaScript era uma linguagem front-end!
 
 Pois é, essa é a grande vantagem de utilizar o Node. Com ele, podemos usar a mesma linguagem tanto no front-end como no back-end, e não precisamos nos preocupar com a comunicação entre as duas partes – que já vão estar falando a mesma língua!
 
 Para instalar o Node.js você pode [baixar](https://nodejs.org/en/#download) e executar o instalador para o seu sistema operacional. Se você utilizar uma distribuição Linux baseada em Debian ou Ubuntu, pode seguir as instruções abaixo:
 
-<h5>Linux baseado em Debian ou Ubuntu:</h5>
+###Linux baseado em Debian ou Ubuntu:
 
 Abra o terminal e digite o comando a seguir:
 
@@ -34,7 +34,7 @@ Pressione Enter e aguarde o processamento. Quando o processo finalizar, digite:
 sudo apt-get install -y nodejs
 ```
 
-E pressione Enter. Ao final desse processo, está pronto.
+E pressione Enter novamente. Pronto! :)
 
 
 ## Preparando o Ambiente
